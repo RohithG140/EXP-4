@@ -36,18 +36,22 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
-
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
-WAVEFORM:
+Half wave rectifier with filter:<img width="1280" height="572" alt="image" src="https://github.com/user-attachments/assets/ce890793-44ad-42ee-9012-9ca4566697de" />
 
 
-RESULT:
+Bridge rectifier with filter:<img width="1080" height="465" alt="image" src="https://github.com/user-attachments/assets/d381da79-1ec3-4cd1-a5e5-54fd281dbc4f" />
+
+
+TABULAR COLUMN <img width="1074" height="327" alt="image" src="https://github.com/user-attachments/assets/258b7df2-a93a-4db7-88a5-38efce7b4a1a" />
+
+
+TABULAR COLUMN <img width="1080" height="362" alt="image" src="https://github.com/user-attachments/assets/5cfa3b8c-093e-46be-9e03-f7580c7f67f4" />
+
+WAVEFORMS <img width="1080" height="579" alt="image" src="https://github.com/user-attachments/assets/bdfb4d7b-43e3-4951-b922-7dbbb2788936" /> <img width="1080" height="615" alt="image" src="https://github.com/user-attachments/assets/858e5285-5814-4575-b711-46b8d40800f9" />
+
+
+
+RESULT:<img width="1080" height="340" alt="image" src="https://github.com/user-attachments/assets/c693b226-d084-44af-973b-abbcc4b8b4f2" />
+
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
